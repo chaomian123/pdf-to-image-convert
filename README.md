@@ -268,3 +268,16 @@ For questions, suggestions, or support, please contact:
 - Added configurable page spacing
 - Enhanced mobile device compatibility
 - Improved conversion speed and reliability
+
+
+### v1.3.0
+
+- Shadcn/UI Design System Integration: Complete visual overhaul using Shadcn/UI components
+- Dark/Light Theme Support: Full theme switching with automatic system preference detection
+- Internationalization: Complete Chinese and English language support with dynamic switching
+- Modern UI Components: Card layouts, improved buttons, and professional form controls
+- Enhanced Accessibility: Better keyboard navigation and screen reader support
+- Responsive Design Improvements: Optimized mobile experience with adaptive layouts
+- Theme Persistence: Intelligent theme and language preference storage with fallback support
+- Visual Polish: Smooth transitions, consistent spacing, and professional color schemes
+
